@@ -1,6 +1,7 @@
-# Stanford CV faculty.
-Li Fei-Fei, 48004138
-
-# MIT CV faculty.
-Kaiming He, 39353098
+Katia P. Sycara, 2382012286
+Jianqing Fan, 17112221
+Xin Guo, 14567394
+Lingfeng Zeng, 32214576
+Fangqi Lou, 31598704
+Ziping Li, 29543211
 
